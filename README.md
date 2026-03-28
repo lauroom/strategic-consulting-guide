@@ -46,8 +46,8 @@ Para este caderno temático, foram selecionadas as seguintes fontes base:
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
 Documentação do raciocínio e refinamento das respostas da IA:
-* **Pergunta Estratégica:** *"Com base no resultado apresentado pelo Checklist de Maturidade Operacional, gere um roadmap focado em ações de curto, médio e longo prazo, com o objetivo de atingir a maturidade empresarial."*
-* **Troubleshooting (Cicatriz):** Caso o retorno do checklist seja genérico ou insuficiente para a definição do nível de maturidade, deve-se acrescentar a descrição detalhada do processo específico para enriquecer a avaliação da plataforma.
+* **Pergunta Estratégica:** *"Com base no resultado apresentado pelo Checklist de Maturidade Operacional, gere um roadmap focado em ações de curto, médio e longo prazo, com o objetivo de atingir a maturidade empresarial no respectivo processo ou setor avaliado."*
+* **Troubleshooting (Cicatriz):** Caso o retorno do checklist seja genérico ou insuficiente para a definição do nível de maturidade, deve-se acrescentar a descrição detalhada do processo analisado de modo a enriquecer a avaliação da plataforma.
 
 ## 📋 Miniguia de Estudo
 * **Resumo:** A gestão empresarial evolui de forma sustentável quando o diagnóstico do status atual é confrontado com métodos de alta performance e ferramentas de IA.
