@@ -33,7 +33,7 @@ O projeto é mantido e desenvolvido por:
 
 ---
 
-## 📚 Curadoria de Fontes (Obrigatório DIO)
+## 📚 Curadoria de Fontes
 Para este caderno temático, foram selecionadas as seguintes fontes base:
 
 1. **Material Teórico e Técnico de Gestão:** Abordagem multisetorial utilizada como *benchmark* para diagnóstico e construção do roadmap.
@@ -49,13 +49,13 @@ Documentação do raciocínio e refinamento das respostas da IA:
 * **Pergunta Estratégica:** *"Com base no resultado apresentado pelo Checklist de Maturidade Operacional, gere um roadmap focado em ações de curto, médio e longo prazo, com o objetivo de atingir a maturidade empresarial."*
 * **Troubleshooting (Cicatriz):** Caso o retorno do checklist seja genérico ou insuficiente para a definição do nível de maturidade, deve-se acrescentar a descrição detalhada do processo específico para enriquecer a avaliação da plataforma.
 
-## 📋 Miniguia de Estudo (Resultado Consolidado)
+## 📋 Miniguia de Estudo
 * **Resumo:** A gestão empresarial evolui de forma sustentável quando o diagnóstico do status atual é confrontado com métodos de alta performance e ferramentas de IA.
 * **Glossário:** *Anomalia* (desvio do padrão), *Maturidade* (grau de controle e previsibilidade do processo), *Roadmap* (plano visual de evolução estratégica).
 * **Prompts Reutilizáveis:** *"Analise este cenário de desvio [Descrever cenário] e sugira um plano de ação fundamentado no ciclo PDCA."*
 
 
-## 📋 Miniguia de Estudo (Resultado Consolidado)
+## 📋 Miniguia de Estudo
 * **Resumo:** A gestão empresarial evolui de forma sustentável quando o diagnóstico do status atual é confrontado com métodos de alta performance e ferramentas de IA.
 * **Glossário:** *Anomalia* (desvio do padrão), *Maturidade* (grau de controle e previsibilidade do processo), *Roadmap* (plano visual de evolução estratégica).
 * **Prompts Reutilizáveis:** *"Analise este cenário de desvio [Descrever cenário] e sugira um plano de ação fundamentado no ciclo PDCA."*
