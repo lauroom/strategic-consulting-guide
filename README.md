@@ -50,6 +50,7 @@ Para este caderno temático, foram selecionadas as seguintes fontes base:
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
 Um ponto fundamental identificado foi a necessidade de preencher o diagnóstico detalhadamente. Marcar as opções de múltipla escolha e descrever o processo encontrado no campo de observações foi crucial para obter uma análise fiel da situação real da empresa. Foram necessários 3 ajustes no prompt até atingir o resultado esperado.
+Outra necessidade urgente é o aumento do número de fontes, de modo a fortalecer a base comparativa e deixar o benchmark mais robusto.
 
 **Prompt Final Definido:**
 > "Preciso definir o nível de maturidade de uma empresa. Para isso, utilize os itens avaliados no conteúdo da fonte '00 - Diagnóstico Organizacional.pdf' (situação atual da empresa) e compare-os com as demais fontes (benchmark de mercado). Com base nisso, disserte sobre a situação atual, pontos a melhorar e elabore um roadmap em formato de tabela com colunas para ações de curto, médio e longo prazo. Separe as ações setorialmente, detalhando a situação atual e o que deve ser feito com base nas referências. A tabela deve seguir o formato: Linhas = Setores; Colunas = Situação Atual, Curto Prazo, Médio Prazo, Longo Prazo e Melhorias Esperadas."
