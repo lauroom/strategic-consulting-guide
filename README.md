@@ -87,7 +87,7 @@ Com base no diagnóstico de uma empresa metalúrgica e nos referenciais de excel
 
 ### 🛠️ Conjunto de Prompts Reutilizáveis
 Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema. Exemplo a seguir:
-> "Para o setor Financeiro e Custos, elabore um plano de ação para os próximos 3 meses, detalhando as ações a serem realizadas. Defina o que deve ser feito, como deve ser feito e quem será o responsável pela tarefa (somente 1 responsável). Defina um cronograma para acompanhamento em formato de um gráfico de Gantt, com intervalo semanal de acompanhamento."
+> "Para o setor Financeiro e Custos, elabore um plano de ação para os próximos 3 meses, detalhando as ações a serem realizadas. Defina o que deve ser feito e como deve ser feito. Defina um cronograma para acompanhamento em formato de um gráfico de Gantt, com intervalo semanal de acompanhamento."
 
 Para o setor de Financeiro e Custos, o objetivo central nos próximos três meses é a transição da gestão baseada no "sentimento" para uma gestão baseada em fatos e dados, conforme preconizado pelo método Falconi. Abaixo, apresento o plano de ação estruturado e o cronograma de acompanhamento.
 
