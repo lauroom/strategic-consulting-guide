@@ -36,24 +36,20 @@ O projeto é mantido e desenvolvido por:
 ## 📚 Curadoria de Fontes
 Para este caderno temático, foram selecionadas as seguintes fontes base:
 
-1. **Material Teórico e Técnico de Gestão:** Abordagem multisetorial utilizada como *benchmark* para diagnóstico e construção do roadmap.
-2. **[Guia de Gestão Estratégica e Operacional (SEBRAE)](https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/MT/Arquivos/Guia%20de%20Gestao%20Estrategica.pdf):** Material sobre indicadores de desempenho e diagnóstico organizacional.
-3. **[Gestão para Resultados na Produção (Produção Online)](https://producaoonline.org.br/rpo/article/view/580):** Artigo sobre métodos de controle e rotina em indústrias.
-4. **[Manual de Implantação do Programa 5S e Padronização (SEBRAE)](https://www.sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/MS/Anexos/Manual_5S.pdf):** Base fundamental para maturidade operacional.
-5. **[Modelo de Excelência da Gestão (FNQ)](https://fnq.org.br/wp-content/uploads/2021/04/Guia-do-MEG-21.pdf):** Fundamentos da gestão de classe mundial.
-6. **[Aplicação do Ciclo PDCA na Melhoria de Processos (ABEPRO)](https://www.abepro.org.br/biblioteca/TN_STO_226_322_29774.pdf):** Estudo de caso sobre transformação de diagnósticos em planos de ação.
-7. **Checklist de Maturidade Operacional:** Framework de diagnóstico estruturado elaborado pelo desenvolvedor deste projeto.
+1. **Gestão da Produção Industrial em Tópicos (Editora Poisson):** Abrange conceitos de produção industrial, qualidade e PCP. Licenciado sob Creative Commons 4.0.
+   * [Acesso ao Volume 1](https://poisson.com.br/2018/livros/industrial/topicos/Gestao_da_Producao_Industrial_em_Topicos_Vol_1.pdf)
+2. **Rede e-Tec Brasil (MEC):** Material didático de domínio público sobre Gestão da Produção e Qualidade, Cadeia de Valor e Arranjo Físico.
+   * [Acesso via eduCAPES](https://educapes.capes.gov.br/)
+3. **Tópicos em Gestão da Produção (eduCAPES):** Repositório da CAPES com foco em simulação de processos, logística e planejamento.
+   * [Acesso ao Repositório](https://educapes.capes.gov.br/handle/capes/123)
+4. **Manual de Gestão da Produção (Biblioteca Digital IPG):** Manual técnico com foco em produtividade potencial e filosofias de produção.
+   * [Acesso ao Manual](https://comum.rcaap.pt/handle/10400.26/17158)
+5. **Checklist de Maturidade Operacional:** Framework de diagnóstico estruturado elaborado pelo desenvolvedor deste projeto.
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
 Documentação do raciocínio e refinamento das respostas da IA:
 * **Pergunta Estratégica:** *"Com base no resultado apresentado pelo Checklist de Maturidade Operacional, gere um roadmap focado em ações de curto, médio e longo prazo, com o objetivo de atingir a maturidade empresarial no respectivo processo ou setor avaliado."*
 * **Troubleshooting (Cicatriz):** Caso o retorno do checklist seja genérico ou insuficiente para a definição do nível de maturidade, deve-se acrescentar a descrição detalhada do processo analisado de modo a enriquecer a avaliação da plataforma.
-
-## 📋 Miniguia de Estudo
-* **Resumo:** A gestão empresarial evolui de forma sustentável quando o diagnóstico do status atual é confrontado com métodos de alta performance e ferramentas de IA.
-* **Glossário:** *Anomalia* (desvio do padrão), *Maturidade* (grau de controle e previsibilidade do processo), *Roadmap* (plano visual de evolução estratégica).
-* **Prompts Reutilizáveis:** *"Analise este cenário de desvio [Descrever cenário] e sugira um plano de ação fundamentado no ciclo PDCA."*
-
 
 ## 📋 Miniguia de Estudo
 * **Resumo:** A gestão empresarial evolui de forma sustentável quando o diagnóstico do status atual é confrontado com métodos de alta performance e ferramentas de IA.
