@@ -16,7 +16,7 @@ No contexto da consultoria industrial e de processos, o framework entrega:
 ## 🚀 Como os usuários podem começar a usar o projeto
 1. **Configuração:** Acesse a plataforma [NotebookLM](https://notebooklm.google/) do Google.
 2. **Input de Dados:** Carregue suas fontes de referência (manuais de gestão, checklists e artigos técnicos).
-3. **Diagnóstico:** Insira as informações coletadas na unidade produtiva via checklist (Status Atual).
+3. **Diagnóstico:** Insira as informações coletadas na empresa via checklist (Status Atual).
 4. **Execução:** Utilize prompts estruturados para confrontar os dados e gerar o roadmap de evolução.
 
 ## 🆘 Onde os usuários podem obter ajuda com seu projeto
