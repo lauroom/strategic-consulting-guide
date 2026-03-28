@@ -58,22 +58,58 @@ Um ponto fundamental identificado foi a necessidade de preencher o diagnóstico 
 
 ## 📋 Miniguia de Estudo (Resultado Consolidado)
 
+### Resumo estruturado do assunto:
 Com base no diagnóstico de uma empresa metalúrgica e nos referenciais de excelência, a organização define-se no **Nível de Maturidade Básico/Inicial**. Embora possua estrutura legal, sua gestão é reativa ("baseada no sentimento"), carecendo de métodos científicos e cultura de dados.
 
-### 📉 Análise da Situação Atual e Gaps
+#### 📉 Análise da Situação Atual e Gaps
 * **Ausência de Método:** Falta de uso do PDCA/SDCA, resultando em processos instáveis onde padrões existem mas não são seguidos.
 * **Subjetividade na Gestão:** Decisões financeiras e de pessoal baseadas na intuição do proprietário, distantes da meritocracia e fatos exigidos pelo mercado.
 * **Inexistência de Estratégia:** Falta de desdobramento de metas (GPD). Sem metas, a gestão limita-se a "combater incêndios" (anomalias).
 
-### 🗺️ Roadmap de Evolução Gerencial
+#### 🗺️ Roadmap de Evolução Gerencial
 
 | Setor | Situação Atual | Curto Prazo (0-6 meses) | Médio Prazo (6-18 meses) | Longo Prazo (18-36+ meses) | Melhorias Esperadas |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Estratégico** | Sem metas definidas; gestão centralizada no proprietário. | Definir Missão, Visão e Valores; identificar 3 a 5 metas prioritárias. | Implementar GPD (Hoshin Kanri) e reuniões mensais de resultados. | Realizar Benchmarking Competitivo e buscar Inovação Drástica. | Alinhamento total da equipe com os objetivos de sobrevivência. |
-| **Recursos Humanos** | Bonificação subjetiva; falta de critérios de treinamento. | Implementar 5S; criar critérios claros para premiações. | Criar Matriz de Competências e avaliações de desempenho formais. | Implementar People Analytics e aprendizado contínuo. | Equipe motivada, treinada e com baixo turnover. |
-| **Produção** | Processo manual; excesso de movimentação e padrões ignorados. | Mapear processos por Fluxogramas; treinar para o cumprimento do SDCA. | Iniciar informatização e implementar Gestão à Vista nos setores. | Implementar Lean Manufacturing (eliminar desperdícios). | Estabilidade operacional e aumento de produtividade. |
-| **Qualidade** | Padronização apenas "no papel"; foco apenas no produto final. | Criar registro diário de anomalias e tratá-las imediatamente. | Utilizar Cartas de Controle e Histogramas; rodar o PDCA. | Buscar meta "Base Zero" e formar especialistas (Black Belts). | Redução drástica de refugos, retrabalhos e reclamações. |
-| **Financeiro** | Gestão por sentimento; indicadores limitados ao faturamento. | Criar registros reais de custos fixos, variáveis e ociosidade. | Monitorar Margem EBITDA e Fluxo de Caixa Livre. | Utilizar Análise de Valor para redução estratégica de custos. | Maximização do lucro operacional e geração de valor. |
+| **Estratégico** | Sem metas definidas; gestão centralizada no proprietário. | Missão/Visão/Valores; Metas prioritárias (3 a 5). | Implementar GPD e reuniões de resultados. | Benchmarking Competitivo; Inovação Drástica. | Alinhamento total com sobrevivência da empresa. |
+| **Recursos Humanos** | Bonificação subjetiva; falta de critérios de treinamento. | Implementar 5S; Critérios claros de premiação. | Matriz de Competências; Avaliações de desempenho formais. | People Analytics; Aprendizado contínuo. | Equipe motivada e baixo turnover. |
+| **Produção** | Processo manual e não informatizado. | Mapear processos (Fluxogramas); Treinar SDCA. | Informatização; Gestão à Vista nos setores. | Implementar Lean Manufacturing. | Estabilidade e aumento de produtividade. |
+| **Qualidade** | Padronização apenas "no papel". | Registro diário de anomalias e tratamento imediato. | Cartas de Controle/Histogramas; Rodar PDCA. | Meta "Base Zero"; Formar Black Belts. | Redução drástica de refugos e reclamações. |
+| **Financeiro** | Gestão por sentimento; foco apenas no faturamento. | Registros de custos fixos, variáveis e ociosidade. | Monitorar Margem EBITDA e Fluxo de Caixa Livre. | Análise de Valor para redução de custos. | Maximização do lucro operacional. |
 
-**Conclusão:** A transição para a Gestão da Qualidade Total exige disciplina. Segundo o benchmark, a consolidação dessas mudanças na cultura organizacional exige um ciclo de aproximadamente 5 anos.
+**Conclusão:** A transição para a Gestão da Qualidade Total exige disciplina. Segundo o benchmark, a consolidação dessas mudanças exige um ciclo de aproximadamente 5 anos.
 
+---
+
+### 🛠️ Conjunto de Prompts Reutilizáveis
+Exemplo de prompt para desdobramento tático:
+> "Para o setor Financeiro e Custos, elabore um plano de ação para os próximos 3 meses, detalhando as ações a serem realizadas. Defina o que deve ser feito, como deve ser feito e quem será o responsável pela tarefa (somente 1 responsável). Defina um cronograma para acompanhamento em formato de um gráfico de Gantt, com intervalo semanal de acompanhamento."
+
+#### Exemplo de Resultado: Plano de Ação (Setor Financeiro e Custos)
+O objetivo central é a transição da gestão baseada no "sentimento" para uma gestão baseada em fatos e dados (Método Falconi). Responsável único: **Gerente Financeiro**.
+
+| O quê (Ação) | Como (Procedimento) | Por que (Justificativa) |
+| :--- | :--- | :--- |
+| 1. Mapeamento de Custos | Coletar notas e faturas dos últimos 6 meses e classificar despesas. | Eliminar o "achismo" e conhecer a real infraestrutura de custos. |
+| 2. Itens de Controle | Definir indicadores vitais (EBITDA, Margem EBITDA, FCL). | Medir a capacidade operacional de gerar caixa e saúde financeira. |
+| 3. Registro de Perdas | Criar planilhas para a produção anotar desperdícios e ociosidade. | Transformar percepção subjetiva em dados numéricos para identificar gaps. |
+| 4. Padronização | Elaborar Procedimento Operacional Padrão (POP) para o fluxo de caixa. | Garantir consistência e estabilidade nos dados semanais. |
+| 5. Relatório de 3 Gerações | Analisar resultados (passado), problemas (presente) e ações (futuro). | Corrigir desvios de meta e girar o PDCA de melhoria. |
+
+#### Cronograma de Acompanhamento (Gráfico de Gantt)
+
+| Atividade / Semana | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Mês 1: Planejamento** | | | | | | | | | | | | |
+| Levantamento Histórico | X | X | | | | | | | | | | |
+| Identificação de Gaps | | | X | X | | | | | | | | |
+| **Mês 2: Implementação** | | | | | | | | | | | | |
+| Criação de Planilhas | | | | | X | X | | | | | | |
+| Treinamento nos POPs | | | | | | | X | X | | | | |
+| **Mês 3: Verificação** | | | | | | | | | | | | |
+| Análise de Desvios | | | | | | | | | X | X | | |
+| Status Report | | | | | | | | | | | X | X |
+
+#### 📈 Melhorias Esperadas
+* **Visibilidade total:** Conhecer exatamente a representatividade dos custos sobre o faturamento.
+* **Redução de desperdícios:** Eliminação definitiva de "problemas ruins" (anomalias).
+* **Meritocracia:** Base para incentivos financeiros baseados em metas reais, eliminando a bonificação por "bom humor".
