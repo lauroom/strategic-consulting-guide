@@ -78,7 +78,10 @@ Com base no diagnóstico de uma empresa metalúrgica e nos referenciais de excel
 
 **Conclusão:** A transição para a Gestão da Qualidade Total exige disciplina. Segundo o benchmark, a consolidação dessas mudanças na cultura organizacional exige um ciclo de aproximadamente 5 anos.
 
-**Principais conceitos aprendidos:** Nenhum. Nada de novo.
+---
+
+### 🛠️ Principais conceitos aprendidos:
+** Não houve a aquisição de novos conceitos teóricos de gestão, uma vez que o framework baseia-se em metodologias já aplicadas em minha rotina. O foco do aprendizado concentrou-se estritamente na exploração da ferramenta NotebookLM como suporte operacional.
 
 ---
 
